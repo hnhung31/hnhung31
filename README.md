@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hnhung31
-- 👀 I’m interested in CODE, English.
-- 🌱 I’m currently learning in HCMUTE.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me at email: hnhunght31.10@gmail.com
 
 <!---
